@@ -1,4 +1,6 @@
-# luvutothemoonxback.github.io
-# hello, world!
-# 안녕하세요. 환영합니다!
-# 코딩 어떻게 하는 거야...
+# Hello. This is your new world.
+You'll be safe. Just when if you don't try to get out of here.
+Then, why many people want and try to go out?
+I think... they are just stupid guys.
+I believe that you are NOT LIKE THAT STUPID IDIOTS. Come and Enjoy!
+# Welcome.
