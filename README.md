@@ -1,6 +1,10 @@
-# Hello. This is your new world.
-You'll be safe. Just when if you don't try to get out of here.
-Then, why many people want and try to go out?
-I think... they are just stupid guys.
-I believe that you are NOT LIKE THAT STUPID IDIOTS. Come and Enjoy!
-# Welcome.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Welcome</title>
+</head>
+<h1>You were trapped</h1>
+<p>Do you think you were trapped? Not at all. You got just moved to your NEW home.</p>
+</body>
+</html>
